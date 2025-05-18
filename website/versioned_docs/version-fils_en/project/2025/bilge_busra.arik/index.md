@@ -52,6 +52,13 @@ The architecture includes:
 
 ---
 
+### 📹 Demo Video
+
+<video controls width="480">
+  <source src="./demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 ## Log
 
 ### Week 5 – 11 May

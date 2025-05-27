@@ -49,6 +49,7 @@ The architecture includes:
 ## Block Scheme
 
 ![Motion Alarm Diagram](/img/motion_alarm_diagram.webp)
+![Hardware Schematic](/img/connection_diagram.svg)
 
 ---
 

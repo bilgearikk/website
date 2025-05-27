@@ -5,7 +5,7 @@ A smart motion detection system powered by Raspberry Pi Pico W and Rust.
 :::info
 
 **Author**: Bilge Büşra Arık  
-**GitHub Project Link**: https://github.com/bilgearikk/wifi-motion-sensor
+**GitHub Project Link**: **GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-bilgearikk
 
 :::
 

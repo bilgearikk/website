@@ -4,7 +4,7 @@ A smart motion detection system powered by Raspberry Pi Pico W and Rust.
 
 :::info
 
-**Author**: Bilge Büşra Arık  
+**Author**: Bilge Büşra Arık  (Erasmus)
 **GitHub Project Link**: **GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-bilgearikk
 
 :::
